@@ -1,0 +1,6 @@
+homepage: "https://chatonpage.com"
+documentation: "https://github.com/theproductdj/chatonpage-gtm#readme"
+versions:
+  # Latest version
+  - sha: PENDING
+    changeNotes: Initial release.
