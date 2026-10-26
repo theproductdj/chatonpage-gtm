@@ -13,7 +13,7 @@ Add your website's domain to the allowed domains of the chatbot in the dashboard
 
 ## What the template does
 
-It loads `https://chatonpage.com/widget.js` once per page, with the key and the options in the query string. It has a single permission: injecting that script.
+It loads `https://chatonpage.com/widget.js` once per page, with the key and the options in the query string. Its permissions: injecting that script, and logging to the console in preview and debug mode only.
 
 ## License
 
